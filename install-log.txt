@@ -1,0 +1,3 @@
+Previous installation backed up to C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\InstallBackups\20261028-221615-634
+Street Studio installed to C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\Mods\StreetStudio
+Start with a test city and disable Road Builder in that playset. This is an experimental build.

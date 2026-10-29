@@ -1,0 +1,478 @@
+
+added 180 packages in 10s
+npm warn install-scripts 1 package has install scripts not yet covered by allowScripts:
+npm warn install-scripts   @swc/core@1.11.24 (postinstall: node postinstall.js)
+npm warn install-scripts
+npm warn install-scripts Run `npm install-scripts ls` to review, or `npm install-scripts approve <pkg>` to allow.
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  StreetStudio -> C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48\StreetStudio.dll
+  Run post processor: "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Content\Game\.ModdingToolchain\ModPostProcessor\ModPostProcessor.exe" PostProcess "C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48\StreetStudio.dll" -u "C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\cohtml.Net.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.AssetPipeline.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Collections.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Core.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.IO.AssetDatabase.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Localization.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Logging.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Mathematics.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.PSI.Common.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.PSI.PdxSdk.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.UI.Binding.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.UI.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Game.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\mscorlib.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\PDX.SDK.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Core.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Data.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Drawing.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.IO.Compression.FileSystem.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Net.Http.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Numerics.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Runtime.Serialization.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.Linq.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.Burst.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.Collections.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.Entities.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.InputSystem.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.Mathematics.dll" -r "C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\UnityEngine.CoreModule.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\Microsoft.Win32.Primitives.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\netstandard.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.AppContext.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Collections.Concurrent.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Collections.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Collections.NonGeneric.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Collections.Specialized.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ComponentModel.Annotations.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ComponentModel.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ComponentModel.EventBasedAsync.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ComponentModel.Primitives.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ComponentModel.TypeConverter.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Console.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Data.Common.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.Contracts.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.Debug.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.FileVersionInfo.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.Process.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.StackTrace.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.TextWriterTraceListener.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.Tools.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.TraceSource.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Drawing.Primitives.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Dynamic.Runtime.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Globalization.Calendars.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Globalization.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Globalization.Extensions.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.Compression.ZipFile.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.FileSystem.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.FileSystem.DriveInfo.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.FileSystem.Primitives.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.FileSystem.Watcher.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.IsolatedStorage.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.MemoryMappedFiles.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.Pipes.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.UnmanagedMemoryStream.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Linq.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Linq.Expressions.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Linq.Parallel.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Linq.Queryable.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Http.Rtc.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.NameResolution.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.NetworkInformation.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Ping.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Primitives.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Requests.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Security.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Sockets.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.WebHeaderCollection.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.WebSockets.Client.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.WebSockets.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ObjectModel.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.Emit.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.Emit.ILGeneration.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.Emit.Lightweight.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.Extensions.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.Primitives.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Resources.Reader.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Resources.ResourceManager.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Resources.Writer.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.CompilerServices.VisualC.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Extensions.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Handles.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.InteropServices.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.InteropServices.RuntimeInformation.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.InteropServices.WindowsRuntime.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Numerics.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Serialization.Formatters.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Serialization.Json.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Serialization.Primitives.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Serialization.Xml.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Claims.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Cryptography.Algorithms.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Cryptography.Csp.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Cryptography.Encoding.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Cryptography.Primitives.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Cryptography.X509Certificates.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Principal.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.SecureString.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ServiceModel.Duplex.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ServiceModel.Http.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ServiceModel.NetTcp.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ServiceModel.Primitives.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ServiceModel.Security.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Text.Encoding.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Text.Encoding.Extensions.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Text.RegularExpressions.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.Overlapped.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.Tasks.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.Tasks.Parallel.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.Thread.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.ThreadPool.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.Timer.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ValueTuple.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.ReaderWriter.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.XDocument.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.XmlDocument.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.XmlSerializer.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.XPath.dll" -r "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.XPath.XDocument.dll" -p Windows -p macOS -p Linux -d -v
+  Unity_Dir: C:\Program Files\Unity 2022.3.62f2\Editor
+  Unity_CoreEnginePath: C:\Program Files\Unity 2022.3.62f2\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll
+  UMP_ResourceDir: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject
+  UMP_AssembliesDir: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\ScriptAssemblies
+  UMP_PackageCacheDir: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache
+  UMP_PackageLocalCacheDir: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Packages
+  ILPPPath: C:\Program Files\Unity 2022.3.62f2\Editor\Data\Tools\ilpp\Unity.ILPP.Runner\Unity.ILPP.Runner.exe
+  BCPPath: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.burst@1.8.23\.Runtime\bcl.exe
+  COrePackageDir: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Packages\fi.colossal.core
+  VersionCodeGenPath: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Packages\fi.colossal.core\Unity.Colossal.Core.CodeGen.dll
+  BurstPath: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\ScriptAssemblies\Unity.Burst.dll
+  BurstCodeGenDependenciesDir: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.burst@1.8.23\Unity.Burst.CodeGen
+  BurstCodeGenPath: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\ScriptAssemblies\Unity.Burst.CodeGen.dll
+  EntitiesCodeGenPath: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\ScriptAssemblies\Unity.Entities.CodeGen.dll
+  MonoCecilPath: C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.nuget.mono-cecil@1.11.5\Mono.Cecil.dll
+  
+  Start post processing IL in StreetStudio.dll
+  
+  Start ILPP runner
+  
+  Start process C:\Program Files\Unity 2022.3.62f2\Editor\Data\Tools\ilpp\Unity.ILPP.Runner\Unity.ILPP.Runner.exe ColossalOrder-02032a8e-97cf-4443-9b1b-dea7b875d02e
+  Named pipe: ColossalOrder-02032a8e-97cf-4443-9b1b-dea7b875d02e
+  
+  ILPP runner started
+  
+  Create ILPP runner client
+  
+  info: Microsoft.Hosting.Lifetime[14]
+        Now listening on: http://localhost:80
+  info: Microsoft.Hosting.Lifetime[0]
+        Application started. Press Ctrl+C to shut down.
+  info: Microsoft.Hosting.Lifetime[0]
+        Hosting environment: Production
+  info: Microsoft.Hosting.Lifetime[0]
+        Content root path: C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\
+  info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+        Request starting HTTP/2 POST http://localhost/UnityILPP.PostProcessing/Ping application/grpc -
+  info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+        Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+  info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+        Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+  info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+        Request finished HTTP/2 POST http://localhost/UnityILPP.PostProcessing/Ping application/grpc - - 200 - application/grpc 27.7351ms
+  
+  ILPP runner client created
+  
+  Configure ILPP runner
+  
+  Post processors:
+  	C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\ScriptAssemblies\Unity.Entities.CodeGen.dll
+  	C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\ScriptAssemblies\Unity.Burst.CodeGen.dll
+  	C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\ScriptAssemblies\Unity.Collections.CodeGen.dll
+  	C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Packages\fi.colossal.core\Unity.Colossal.Core.CodeGen.dll
+  Reference hint paths:
+  	C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\ScriptAssemblies\Unity.Burst.dll
+  	C:\Program Files\Unity 2022.3.62f2\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll
+  	C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.nuget.mono-cecil@1.11.5\Mono.Cecil.dll
+  Reference assembly directories:
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades
+  	C:\Program Files\Unity 2022.3.62f2\Editor\Data\Managed\UnityEngine
+  	C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.burst@1.8.23\Unity.Burst.CodeGen
+  	C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.nuget.mono-cecil@1.11.5
+  	C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.entities@1.3.10\Unity.Entities.CodeGen
+  	C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48
+  	C:\Program Files\Unity 2022.3.62f2\Editor\Data\Managed
+  info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+        Request starting HTTP/2 POST http://localhost/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc -
+  info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+        Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved Mono.Cecil, Version=0.11.5.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.nuget.mono-cecil@1.11.5\Mono.Cecil.dll
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved Unity.Burst.Cecil, Version=0.11.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.burst@1.8.23\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved Colossal.Mono.Cecil, Version=0.11.4.0, Culture=neutral, PublicKeyToken=null with C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Mono.Cecil.dll
+  info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+        Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+  info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+        Request finished HTTP/2 POST http://localhost/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc - - 200 - application/grpc 499.5325ms
+  
+  ILPP runner configured
+  
+  
+  Start post processing assembly
+  
+  InputPath: C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48\StreetStudio.dll
+  OutputDir: C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48\Temp
+  References:
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\cohtml.Net.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.AssetPipeline.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Collections.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Core.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.IO.AssetDatabase.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Localization.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Logging.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Mathematics.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.PSI.Common.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.PSI.PdxSdk.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.UI.Binding.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.UI.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Game.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\mscorlib.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\PDX.SDK.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Core.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Data.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Drawing.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.IO.Compression.FileSystem.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Net.Http.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Numerics.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Runtime.Serialization.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.Xml.Linq.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.Burst.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.Collections.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.Entities.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.InputSystem.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.Mathematics.dll
+  	C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\UnityEngine.CoreModule.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\Microsoft.Win32.Primitives.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\netstandard.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.AppContext.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Collections.Concurrent.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Collections.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Collections.NonGeneric.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Collections.Specialized.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ComponentModel.Annotations.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ComponentModel.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ComponentModel.EventBasedAsync.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ComponentModel.Primitives.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ComponentModel.TypeConverter.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Console.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Data.Common.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.Contracts.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.Debug.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.FileVersionInfo.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.Process.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.StackTrace.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.TextWriterTraceListener.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.Tools.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Diagnostics.TraceSource.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Drawing.Primitives.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Dynamic.Runtime.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Globalization.Calendars.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Globalization.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Globalization.Extensions.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.Compression.ZipFile.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.FileSystem.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.FileSystem.DriveInfo.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.FileSystem.Primitives.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.FileSystem.Watcher.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.IsolatedStorage.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.MemoryMappedFiles.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.Pipes.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.IO.UnmanagedMemoryStream.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Linq.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Linq.Expressions.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Linq.Parallel.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Linq.Queryable.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Http.Rtc.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.NameResolution.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.NetworkInformation.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Ping.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Primitives.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Requests.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Security.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.Sockets.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.WebHeaderCollection.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.WebSockets.Client.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Net.WebSockets.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ObjectModel.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.Emit.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.Emit.ILGeneration.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.Emit.Lightweight.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.Extensions.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Reflection.Primitives.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Resources.Reader.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Resources.ResourceManager.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Resources.Writer.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.CompilerServices.VisualC.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Extensions.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Handles.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.InteropServices.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.InteropServices.RuntimeInformation.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.InteropServices.WindowsRuntime.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Numerics.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Serialization.Formatters.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Serialization.Json.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Serialization.Primitives.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Runtime.Serialization.Xml.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Claims.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Cryptography.Algorithms.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Cryptography.Csp.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Cryptography.Encoding.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Cryptography.Primitives.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Cryptography.X509Certificates.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.Principal.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Security.SecureString.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ServiceModel.Duplex.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ServiceModel.Http.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ServiceModel.NetTcp.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ServiceModel.Primitives.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ServiceModel.Security.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Text.Encoding.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Text.Encoding.Extensions.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Text.RegularExpressions.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.Overlapped.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.Tasks.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.Tasks.Parallel.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.Thread.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.ThreadPool.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Threading.Timer.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.ValueTuple.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.ReaderWriter.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.XDocument.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.XmlDocument.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.XmlSerializer.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.XPath.dll
+  	C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\Facades\System.Xml.XPath.XDocument.dll
+  Defines:
+  	UNITY_2022_3_7
+  	UNITY_2022_3
+  	UNITY_2022
+  	UNITY_5_3_OR_NEWER
+  	UNITY_5_4_OR_NEWER
+  	UNITY_5_5_OR_NEWER
+  	UNITY_5_6_OR_NEWER
+  	UNITY_2017_1_OR_NEWER
+  	UNITY_2017_2_OR_NEWER
+  	UNITY_2017_3_OR_NEWER
+  	UNITY_2017_4_OR_NEWER
+  	UNITY_2018_1_OR_NEWER
+  	UNITY_2018_2_OR_NEWER
+  	UNITY_2018_3_OR_NEWER
+  	UNITY_2018_4_OR_NEWER
+  	UNITY_2019_1_OR_NEWER
+  	UNITY_2019_2_OR_NEWER
+  	UNITY_2019_3_OR_NEWER
+  	UNITY_2019_4_OR_NEWER
+  	UNITY_2020_1_OR_NEWER
+  	UNITY_2020_2_OR_NEWER
+  	UNITY_2020_3_OR_NEWER
+  	UNITY_2021_1_OR_NEWER
+  	UNITY_2021_2_OR_NEWER
+  	UNITY_2021_3_OR_NEWER
+  	UNITY_2022_1_OR_NEWER
+  	UNITY_2022_2_OR_NEWER
+  	UNITY_2022_3_OR_NEWER
+  	PLATFORM_ARCH_64
+  	UNITY_64
+  	UNITY_INCLUDE_TESTS
+  	ENABLE_AR
+  	ENABLE_AUDIO
+  	ENABLE_CACHING
+  	ENABLE_CLOTH
+  	ENABLE_EVENT_QUEUE
+  	ENABLE_MICROPHONE
+  	ENABLE_MULTIPLE_DISPLAYS
+  	ENABLE_PHYSICS
+  	ENABLE_TEXTURE_STREAMING
+  	ENABLE_VIRTUALTEXTURING
+  	ENABLE_LZMA
+  	ENABLE_UNITYEVENTS
+  	ENABLE_VR
+  	ENABLE_WEBCAM
+  	ENABLE_UNITYWEBREQUEST
+  	ENABLE_WWW
+  	ENABLE_CLOUD_SERVICES
+  	ENABLE_CLOUD_SERVICES_ADS
+  	ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+  	ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+  	ENABLE_CLOUD_SERVICES_PURCHASING
+  	ENABLE_CLOUD_SERVICES_ANALYTICS
+  	ENABLE_CLOUD_SERVICES_BUILD
+  	ENABLE_EDITOR_GAME_SERVICES
+  	ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+  	ENABLE_CLOUD_LICENSE
+  	ENABLE_EDITOR_HUB_LICENSE
+  	ENABLE_WEBSOCKET_CLIENT
+  	ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API
+  	ENABLE_DIRECTOR_AUDIO
+  	ENABLE_DIRECTOR_TEXTURE
+  	ENABLE_MANAGED_JOBS
+  	ENABLE_MANAGED_TRANSFORM_JOBS
+  	ENABLE_MANAGED_ANIMATION_JOBS
+  	ENABLE_MANAGED_AUDIO_JOBS
+  	ENABLE_MANAGED_UNITYTLS
+  	INCLUDE_DYNAMIC_GI
+  	ENABLE_SCRIPTING_GC_WBARRIERS
+  	PLATFORM_SUPPORTS_MONO
+  	RENDER_SOFTWARE_CURSOR
+  	ENABLE_VIDEO
+  	ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+  	ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION
+  	ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT
+  	ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE
+  	PLATFORM_STANDALONE
+  	TEXTCORE_1_0_OR_NEWER
+  	PLATFORM_STANDALONE_WIN
+  	UNITY_STANDALONE_WIN
+  	UNITY_STANDALONE
+  	ENABLE_RUNTIME_GI
+  	ENABLE_MOVIES
+  	ENABLE_NETWORK
+  	ENABLE_NVIDIA
+  	ENABLE_CRUNCH_TEXTURE_COMPRESSION
+  	ENABLE_OUT_OF_PROCESS_CRASH_HANDLER
+  	ENABLE_CLUSTER_SYNC
+  	ENABLE_CLUSTERINPUT
+  	PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+  	GFXDEVICE_WAITFOREVENT_MESSAGEPUMP
+  	PLATFORM_INITIALIZES_MEMORY_MANAGER_EXPLICITLY
+  	ENABLE_MONO
+  	NET_4_6
+  	NET_UNITY_4_8
+  	ENABLE_PROFILER
+  	DEBUG
+  	TRACE
+  	UNITY_ASSERTIONS
+  	ENABLE_UNITY_COLLECTIONS_CHECKS
+  	ENABLE_BURST_AOT
+  	UNITY_TEAM_LICENSE
+  	UNITY_PRO_LICENSE
+  	ENABLE_CUSTOM_RENDER_TEXTURE
+  	ENABLE_DIRECTOR
+  	ENABLE_LOCALIZATION
+  	ENABLE_SPRITES
+  	ENABLE_TERRAIN
+  	ENABLE_TILEMAP
+  	ENABLE_TIMELINE
+  	ENABLE_VIRTUALTEXTURES
+  	ENABLE_INPUT_SYSTEM
+  	ENABLE_LEGACY_INPUT_MANAGER
+  	TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+  	UNITY_DISABLE_AUTOMATIC_SYSTEM_BOOTSTRAP
+  	ENABLE_INPUT_SYSTEM
+  	USE_REFLECTION_FORMATTER
+  	PROCEDURAL_VT_IN_GRAPH
+  	NICEIO_PUBLIC
+  	COHERENT_RENDERING_PIPELINES
+  	ENABLE_INSTALOD
+  	ENABLE_DISCORD
+  	COHERENT_CPU_64
+  	ENABLE_PDXSDK
+  	ENABLE_AUTOMATION
+  	ENABLE_TESTS
+  	CSHARP_7_OR_LATER
+  	CSHARP_7_3_OR_NEWER
+  info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+        Request starting HTTP/2 POST http://localhost/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+  info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+        Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+  info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+        Processing assembly C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48\StreetStudio.dll, with 128 defines and 135 references
+  info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+        processors: Unity.Entities.CodeGen.EntitiesILPostProcessors, Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor, zzzzColossal.Core.CodeGen.VersioningILPostProcessor
+  Processing assembly C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48\StreetStudio.dll, with 128 defines and 135 references
+  processors: Unity.Entities.CodeGen.EntitiesILPostProcessors, Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor, zzzzColossal.Core.CodeGen.VersioningILPostProcessor
+  info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+        running Unity.Entities.CodeGen.EntitiesILPostProcessors
+  running Unity.Entities.CodeGen.EntitiesILPostProcessors
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved Mono.Cecil.Rocks, Version=0.11.5.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.nuget.mono-cecil@1.11.5\Mono.Cecil.Rocks.dll
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.Entities.dll
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with C:\Program Files\Unity 2022.3.62f2\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Unity.Collections.dll
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\ScriptAssemblies\Unity.Burst.dll
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved Unity.Cecil.Awesome, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null with C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.entities@1.3.10\Unity.Entities.CodeGen\Unity.Cecil.Awesome.dll
+    - EILPP : StreetStudio : : 744ms (~464ms)
+      - EILPP : StreetStudio : GetAllComponentTypes: 12ms 
+      - EILPP : StreetStudio : Cloner: 19ms 
+      - EILPP : StreetStudio : ComponentDataPP: 24ms 
+      - EILPP : StreetStudio : StaticTypeRegistryPostProcessor: 85ms 
+      - EILPP : StreetStudio : WriteAssembly: 140ms 
+  info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+        running Unity.Jobs.CodeGen.JobsILPostProcessor
+  running Unity.Jobs.CodeGen.JobsILPostProcessor
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with C:\Program Files\Unity 2022.3.62f2\Editor\Data\Managed\UnityEngine\UnityEditor.CoreModule.dll
+  info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+        running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+  running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved Unity.Burst.Cecil.Rocks, Version=0.11.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with C:\Users\grgar\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\UnityModsProject\Library\PackageCache\com.unity.burst@1.8.23\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll
+  info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+        running zzzzColossal.Core.CodeGen.VersioningILPostProcessor
+  running zzzzColossal.Core.CodeGen.VersioningILPostProcessor
+  info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+        Resolved Colossal.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with C:\Program Files\WindowsApps\ParadoxInteractive.CitiesSkylinesII-PCEdition_1.6.2.0_x64__zfnrdv2de78ny\Cities2_Data\Managed\Colossal.Core.dll
+  info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+        Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+  info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+        Request finished HTTP/2 POST http://localhost/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 1762.2111ms
+  
+  Assembly post processed
+  
+  Start Burst compiler
+  
+  Start Burst compiler for Windows
+  Compiled 1 library, containing 0 methods, in 5094ms using 20 threads: C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48\Temp\StreetStudio_win_x86_64.dll,C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48\Temp\StreetStudio_win_x86_64.pdb
+  
+  Burst dll compiled for Windows
+  
+  Start Burst compiler for macOS
+  Compiled 1 library, containing 0 methods, in 2695ms using 20 threads: C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48\Temp\StreetStudio_mac_x86_64.bundle
+  
+  Burst dll compiled for macOS
+  
+  Start Burst compiler for Linux
+  Compiled 1 library, containing 0 methods, in 2953ms using 20 threads: C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\bin\Release\net48\Temp\StreetStudio_linux_x86_64.so
+  
+  Burst dll compiled for Linux
+  
+  StreetStudio.dll processing complete
+  Copy output to deploy directory C:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Source\StreetStudio\..\..\Package\StreetStudio
+  
+  > build
+  > webpack
+  
+  assets by path [1m[32mimages/*.svg[39m[22m 4.93 KiB
+    asset [1m[32mimages/RB_ClickOnRoad.svg[39m[22m 2.37 KiB [1m[32m[emitted][39m[22m [from: src/images/RB_ClickOnRoad.svg] (auxiliary name: StreetStudio)
+    asset [1m[32mimages/RB_ArrowLeftClear.svg[39m[22m 843 bytes [1m[32m[emitted][39m[22m [from: src/images/RB_ArrowLeftClear.svg] (auxiliary name: StreetStudio)
+    asset [1m[32mimages/RB_Magnifier.svg[39m[22m 750 bytes [1m[32m[emitted][39m[22m [from: src/images/RB_Magnifier.svg] (auxiliary name: StreetStudio)
+    asset [1m[32mimages/RB_LaneSetup.svg[39m[22m 439 bytes [1m[32m[emitted][39m[22m [from: src/images/RB_LaneSetup.svg] (auxiliary name: StreetStudio)
+    asset [1m[32mimages/RB_ModIcon.svg[39m[22m 195 bytes [1m[32m[emitted][39m[22m [from: src/images/RB_ModIcon.svg] (auxiliary name: StreetStudio)
+    asset [1m[32mimages/RB_ModIconActive.svg[39m[22m 195 bytes [1m[32m[emitted][39m[22m [from: src/images/RB_ModIconActive.svg] (auxiliary name: StreetStudio)
+    asset [1m[32mimages/StreetStudio.svg[39m[22m 195 bytes [1m[32m[emitted][39m[22m [from: src/images/StreetStudio.svg] (auxiliary name: StreetStudio)
+  assets by chunk 171 KiB (name: StreetStudio)
+    asset [1m[32mStreetStudio.mjs[39m[22m 102 KiB [1m[32m[emitted][39m[22m [javascript module] [1m[32m[minimized][39m[22m (name: StreetStudio) 1 related asset
+    asset [1m[32mStreetStudio.css[39m[22m 69 KiB [1m[32m[emitted][39m[22m (name: StreetStudio)
+  Entrypoint [1mStreetStudio[39m[22m 171 KiB (4.93 KiB) = [1m[32mStreetStudio.css[39m[22m 69 KiB [1m[32mStreetStudio.mjs[39m[22m 102 KiB 7 auxiliary assets
+  orphan modules 266 KiB (javascript) 16.5 KiB (runtime) [1m[33m[orphan][39m[22m 154 modules
+  runtime modules 705 bytes 4 modules
+  built modules 68.9 KiB (css/mini-extract) 180 KiB (javascript) 4.93 KiB (asset) [1m[33m[built][39m[22m
+    modules by path [1m./src/[39m[22m 68.9 KiB (css/mini-extract) 177 KiB (javascript) 4.93 KiB (asset)
+      modules by path [1m./src/mods/[39m[22m 68.9 KiB 18 modules
+      modules by layer 177 KiB (javascript) 4.93 KiB (asset)
+        [1m./src/index.tsx + 69 modules[39m[22m 177 KiB [1m[31m[not cacheable][39m[22m [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m./src/images/RB_ModIcon.svg[39m[22m 195 bytes (asset) 42 bytes (javascript) [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        + 6 modules
+    modules by path [1m./node_modules/[39m[22m 2.54 KiB
+      [1m./node_modules/react/jsx-runtime.js[39m[22m 214 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+      [1m./node_modules/classnames/index.js[39m[22m 1.49 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+      [1m./node_modules/react/cjs/react-jsx-runtime.production.min.js[39m[22m 859 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1mexternal "React"[39m[22m 42 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  webpack 5.99.8 compiled [1m[32msuccessfully[39m[22m in 2713 ms
+  
+  ≡ƒö¿ Built StreetStudio
+     [90mC:\Users\grgar\Documents\Codex\2026-10-28\make\outputs\StreetStudio\Package\StreetStudio[0m
+  
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:18.89
+Build complete. See Package\StreetStudio beside the Source folder.
